@@ -25,7 +25,7 @@ SECRET_KEY = 'qn#+=fq=!-q-=@l!$!8b(l+ga+&skdn0q7s2n79bbv623u+^ih'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [silio.pythonanywhere.com]
+ALLOWED_HOSTS = ['silio.pythonanywhere.com']
 
 
 # Application definition
